@@ -7,6 +7,7 @@
 #include <Jolt/Core/Profiler.h>
 #include <Jolt/Core/FPException.h>
 
+#include <chrono>
 JPH_SUPPRESS_WARNINGS_STD_BEGIN
 #include <algorithm>
 JPH_SUPPRESS_WARNINGS_STD_END
